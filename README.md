@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nimashi Dewanmini</h1>
+<div align="left">
+<br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&color=E8E8E8&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Panditha+DewSz+;Welcome+to+My+Profile!"
+</div>
+<hr>
 <h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimashidewanmini&label=Profile%20views&color=0e75b6&style=flat" alt="nimashidewanmini" /> </p>
