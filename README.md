@@ -1,3 +1,13 @@
+<div align="center">
+    
+![header](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png"/>
+</p>
+</div>
 <div align="left">
 <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&color=E8E8E8&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Nimashi+Dewanmini+;Welcome+to+My+Profile!"
